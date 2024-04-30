@@ -2,7 +2,7 @@
 
 # Sistema de Cadastro de Estudantes
 
-![Descrição da imagem](./demo/Screenshot (16).png)
+![Descrição da imagem](https://github.com/mnguluve/Sistema-de-Cadastro-de-Estudantes/blob/main/demo/Screenshot%20(16).png)
 
 Este é um projeto de análise e modelação de um sistema de cadastro de estudantes, desenvolvido como parte de um trabalho acadêmico na disciplina de Análise e Modelação de Sistemas.
 
