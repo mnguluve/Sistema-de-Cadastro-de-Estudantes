@@ -1,3 +1,5 @@
+![Descrição da imagem](demo/Screenshot (16).png)
+
 # Sistema de Cadastro de Estudantes
 
 Este é um projeto de análise e modelação de um sistema de cadastro de estudantes, desenvolvido como parte de um trabalho acadêmico na disciplina de Análise e Modelação de Sistemas.
